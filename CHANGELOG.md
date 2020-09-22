@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+- Use navigate when redirecting to checkout
+
 ## [2.51.1] - 2020-09-09
 ### Changed
 - Memoize change and remove callbacks to avoid re-rendering product list items
